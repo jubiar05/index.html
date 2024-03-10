@@ -1,0 +1,16 @@
+{
+  "name": "updatefbtokengetter",
+  "version": "1.0.0",
+  "description": "A simple Node.js server serving an index.html file",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ryo Dev",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.1",
+    "fs": "^0.0.1",
+    "path": "^0.12.7"
+  }
+}
